@@ -14,7 +14,8 @@ landing page.
 .
 ├── index.html                              # Landing page (the reports list)
 ├── reports/
-│   └── 2026-06-01-performance-review.html  # A self-contained report
+│   ├── 2026-08-24-life-campaign-configuration.html
+│   └── 2026-06-01-performance-review.html  # Self-contained reports
 ├── assets/
 │   └── goal-logo-white.png                 # GOAL logo (used on the landing page)
 ├── vercel.json                             # Vercel static-site config
